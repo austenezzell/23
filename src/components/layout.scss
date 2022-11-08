@@ -368,9 +368,10 @@ vr {
     // align-self: end;
     display: inline-block;
     width: 47px;
-    margin-left: 24px;
+    margin-left: 12px;
     @include md-screens() {
       width: 77px;
+      margin-left: 24px;
     }
   }
   .links-2 {
@@ -378,9 +379,10 @@ vr {
     // align-self: end;
     display: inline-block;
     width: 47px;
-    margin-left: 24px;
+    margin-left: 12px;
     @include md-screens() {
       width: 77px;
+      margin-left: 24px;
     }
   }
   .copy {
@@ -391,12 +393,13 @@ vr {
     display: inline-block;
     height: 30px;
     width: 40px;
-    margin-left: 24px;
+    margin-left: 12px;
     position: relative;
     @include md-screens() {
       height: 50px;
       width: 67px;
       top: 5px;
+      margin-left: 24px;
     }    
   }
   .ae {

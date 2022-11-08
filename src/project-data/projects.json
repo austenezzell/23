@@ -1,0 +1,663 @@
+[
+    {
+        "slug": "gogoro",
+        "date": "2018",
+        "title": "Gogoro",
+        "keyArt": "../images/work/gogoro/gogoro_0.jpg",
+        "keyArtVideo": "",
+        "keyArtAspectRatio": "square",
+        "description": "Gogoro has changed the world by rethinking how energy is consumed. At Cinco Design, I had the opportunity to help shape their brand architecture, platforms, messaging, consumer experience, websites, apps and go-to-market strategies.",
+        "team": [
+            {
+                "person": "Many of the good people at Cinco Design (past and present).",
+                "link": "https//www.cincodesign.com"
+            },
+            {
+                "person": "Not Real",
+                "link": "https://notreal.tv/"
+            },
+            {
+                "person": "The Gogoro Team",
+                "link": "https://gogoro.com"
+            }            
+        ],
+        "assets": [
+            {
+                "asset": "../images/work/gogoro/gogoro_0.jpg",
+                "class": "full",
+                "video": ""
+            },
+            {
+                "asset": "",
+                "class": "repeat",
+                "video": "/gogoro_3.mp4"
+            },             
+            {
+                "asset": "../images/work/gogoro/gogoro_1.jpg",
+                "class": "centered",
+                "video": ""
+            },    
+            {
+                "asset": "../images/work/gogoro/gogoro_2.jpg",
+                "class": "repeat",
+                "video": ""
+            },    
+            {
+                "asset": "../images/work/gogoro/gogoro_4.png",
+                "class": "full",
+                "video": ""
+            },    
+            {
+                "asset": "../images/work/gogoro/gogoro_5.jpg",
+                "class": "centered",
+                "video": ""
+            },  
+            {
+                "asset": "../images/work/gogoro/gogoro_6.jpg",
+                "class": "repeat",
+                "video": ""
+            },  
+            {
+                "asset": "../images/work/gogoro/gogoro_7.jpg",
+                "class": "full",
+                "video": ""
+            },  
+            {
+                "asset": "../images/work/gogoro/gogoro_8.jpg",
+                "class": "centered",
+                "video": ""
+            },  
+            {
+                "asset": "../images/work/gogoro/gogoro_9.jpg",
+                "class": "full",
+                "video": ""
+            },  
+            {
+                "asset": "../images/work/gogoro/gogoro_10.jpg",
+                "class": "full",
+                "video": ""
+            },  
+            {
+                "asset": "../images/work/gogoro/gogoro_11.jpg",
+                "class": "full",
+                "video": ""
+            },  
+            {
+                "asset": "../images/work/gogoro/gogoro_12.jpg",
+                "class": "centered",
+                "video": ""
+            },  
+            {
+                "asset": "../images/work/gogoro/gogoro_13.jpg",
+                "class": "repeat",
+                "video": ""
+            }                                                              
+        ]  
+    },
+    {
+        "slug": "ringcentral",
+        "date": "2021",
+        "title": "RingCentral",
+        "keyArt": "../images/work/ringcentral/rcfwd3.jpg",
+        "keyArtVideo": "/rc_0.mp4",
+        "keyArtAspectRatio": "landscape",
+        "description": "The challenge; build a brand from the ground up for a 35 billion dollar company during a global pandemic. I worked with the brand marketing team at RC to define systems, processes, guidelines, and tools to help establish and grow the brand. During this time we launched a sub brand—Glip—and made huge steps toward connecting with our audience in new and more modern ways.",
+        "team": [
+            {
+                "person": "JP Walti",
+                "link": "https://www.linkedin.com/in/johnpaulwalti/"
+            },
+            {
+                "person": "Morgan Norman",
+                "link": "https://twitter.com/meetmorg?lang=en"
+            },
+            {
+                "person": "Yansu Ouyang",
+                "link": "https://www.linkedin.com/in/yansuouyang/"
+            },            
+            {
+                "person": "Kristin Hurley",
+                "link": "http://kristinhurley.com/"
+            },                        
+            {
+                "person": "Astra Sodarsono",
+                "link": "https://www.astra-logic.com/"
+            },                        
+            {
+                "person": "Brendan Miller",
+                "link": "http://brendanmiller.xyz/"
+            },                                    
+            {
+                "person": "Maria Janosko",
+                "link": "http://kristinhurley.com/"
+            },         
+            {
+                "person": "Earl Little",
+                "link": "https://www.linkedin.com/in/earl-little-6866aba0/"
+            }, 
+            {
+                "person": "Kat Chen",
+                "link": "https://www.linkedin.com/in/katherinegracechen/"
+            },  
+            {
+                "person": "Cinco Design",
+                "link": "https://cincodesign.com/"
+            }, 
+            {
+                "person": "Not Real",
+                "link": "https://notreal.tv/"
+            },                              
+            {
+                "person": "Colophon Foundry",
+                "link": "https://www.colophon-foundry.org/"
+            },                                                
+            {
+                "person": "Code & Theory",
+                "link": "https://www.codeandtheory.com/"
+            }                                      
+        ],
+        "assets": [
+            {
+                "asset": "",
+                "class": "repeat",
+                "video": "/rc_0.mp4"
+            },
+            {
+                "asset": "",
+                "class": "centered",
+                "video": "/rc_1.mp4"
+            },    
+            {
+                "asset": "",
+                "class": "repeat",
+                "video": "/rc_2.mp4"
+            },
+            {
+                "asset": "",
+                "class": "centered",
+                "video": "/rc_3.mp4"
+            },
+            {
+                "asset": "",
+                "class": "full",
+                "video": "/rc_4.mp4"
+            },
+            {
+                "asset": "../images/work/ringcentral/rc_5.jpg",
+                "class": "centered",
+                "video": ""
+            },
+            {
+                "asset": "../images/work/ringcentral/rc_6.jpg",
+                "class": "full",
+                "video": ""
+            },
+            {
+                "asset": "../images/work/ringcentral/rc_7.jpg",
+                "class": "repeat",
+                "video": ""
+            },
+            {
+                "asset": "../images/work/ringcentral/rc_8.jpg",
+                "class": "centered",
+                "video": ""
+            },
+            {
+                "asset": "../images/work/ringcentral/rc_9.jpg",
+                "class": "full",
+                "video": ""
+            },
+            {
+                "asset": "../images/work/ringcentral/rc_10.jpg",
+                "class": "centered",
+                "video": ""
+            },
+            {
+                "asset": "../images/work/ringcentral/rc_11.jpg",
+                "class": "repeat",
+                "video": ""
+            }                                                                                
+        ]      
+    },
+    {
+        "slug": "the-sacred-fig",
+        "date": "2021",
+        "title": "The Sacred Fig",
+        "keyArt": "../images/work/fig/fig_0.jpg",
+        "keyArtVideo": "",
+        "keyArtAspectRatio": "landscape",
+        "description": "The Sacred Fig was established to transform lives. Fast forward seven years to a seemingly different world, and we continue to build on this same promise. In August of 2021 we re-launched The Fig with an updated platform, new identity, a new product—Fig Flix—and an optimized end-to-end customer experience including a completely new website.",
+        "team": [
+            {
+                "person": "Lauren Ezzell",
+                "link": "http:www.laurenezzell.com"
+            },
+            {
+                "person": "The Sacred Fig team",
+                "link": "https://www.thesacredfig.com/"
+            }
+        ],
+        "assets": [
+            {
+                "asset": "../images/work/fig/fig_0.jpg",
+                "class": "repeat",
+                "video": ""
+            },   
+            {
+                "asset": "../images/work/fig/fig_1.jpg",
+                "class": "full",
+                "video": ""
+            },   
+            {
+                "asset": "../images/work/fig/fig_2.jpg",
+                "class": "repeat",
+                "video": ""
+            },   
+            {
+                "asset": "../images/work/fig/fig_3.jpg",
+                "class": "centered",
+                "video": ""
+            },   
+            {
+                "asset": "../images/work/fig/fig_4.jpg",
+                "class": "repeat",
+                "video": ""
+            },   
+            {
+                "asset": "../images/work/fig/fig_5.jpg",
+                "class": "full",
+                "video": ""
+            },   
+            {
+                "asset": "../images/work/fig/fig_6.jpg",
+                "class": "centered",
+                "video": ""
+            }, 
+            {
+                "asset": "../images/work/fig/fig_7.jpg",
+                "class": "repeat",
+                "video": ""
+            }                                                                                                                                 
+        ]      
+    },
+    {
+        "slug": "hank-pdx",
+        "date": "2019",
+        "title": "Hank PDX",
+        "keyArt": "",
+        "keyArtVideo": "/hank_0.mp4",
+        "keyArtAspectRatio": "landscape",
+        "description": "We partnered with the Portland Art Museum to promote Hank Willis Thomas’ upcoming exhibition All Things Being Equal.",
+        "team": [
+            {
+                "person": "Kevan Wolahan",
+                "link": "http://wolahan.com/"
+            },
+            {
+                "person": "Erich Quist",
+                "link": "https://www.erichquist.com/"
+            },
+            {
+                "person": "Kamilah Dove",
+                "link": "http://www.kamilahdove.com/"
+            },
+            {
+                "person": "Hank Willis Thomas",
+                "link": "https://www.hankwillisthomas.com/"
+            },
+            {
+                "person": "The Portland Art Museum",
+                "link": "https://portlandartmuseum.org/"
+            },
+            {
+                "person": "The good people at Cinco",
+                "link": "https://cincodesign.com"
+            }
+        ],
+        "assets": [
+            {
+                "asset": "",
+                "class": "centered",
+                "video": "/hank_0.mp4"
+            },  
+            {
+                "asset": "../images/work/hank/hank_1.jpg",
+                "class": "repeat",
+                "video": ""
+            },
+            {
+                "asset": "",
+                "class": "full",
+                "video": "https://player.vimeo.com/external/365626808.hd.mp4?s=54344f281ab2ee21649e5a62d05f78ceee4dcee3&profile_id=175"
+            },
+            {
+                "asset": "",
+                "class": "centered",
+                "video": "https://player.vimeo.com/external/365111331.hd.mp4?s=8824d0e9b078367a7c4d30ca9ebc594585b2f6cc&profile_id=174"
+            },
+            {
+                "asset": "../images/work/hank/hank_2.jpg",
+                "class": "repeat",
+                "video": ""
+            }                                                                                                                                    
+        ]      
+    },
+    
+    {
+        "slug": "the-james-brand",
+        "date": "2018",
+        "title": "The James Brand",
+        "keyArt": "../images/work/tjb/tjb_0.jpg",
+        "keyArtVideo": "",
+        "keyArtAspectRatio": "portrait",
+        "description": "The James Brand started with a clear understanding of their target-audience. Cinco then shaped brand and products to seamlessly fit into their lives. We built a digital shopping experience that serves as a platform for users to go deep into stories, product benefits and comparisons while always allowing for a seamless path to purchase.",
+        "team": [
+            {
+                "person": "Zach Allott",
+                "link": "https://www.zacharyallott.com/"
+            },
+            {
+                "person": "Cabe Branson",
+                "link": "http://austenezzell.com/cabe.io"
+            },
+            {
+                "person": "Steve Ebert",
+                "link": "http://thisisusefulinformation.com/"
+            },
+            {
+                "person": "The James Brand Team",
+                "link": "https://thejamesbrand.com"
+            },
+            {
+                "person": "The good people at Cinco",
+                "link": "https://cincodesign.com"
+            }
+        ],
+        "assets": [
+            {
+                "asset": "../images/work/tjb/tjb_0.jpg",
+                "class": "repeat",
+                "video": ""
+            },
+            {
+                "asset": "../images/work/tjb/tjb_1.jpg",
+                "class": "full",
+                "video": ""
+            },
+            {
+                "asset": "../images/work/tjb/tjb_2.jpg",
+                "class": "centered",
+                "video": ""
+            },
+            {
+                "asset": "../images/work/tjb/tjb_3.jpg",
+                "class": "repeat",
+                "video": ""
+            },
+            {
+                "asset": "../images/work/tjb/tjb_4.jpg",
+                "class": "repeat",
+                "video": ""
+            }
+        ]      
+    },
+
+    {
+        "slug": "nextbit",
+        "date": "2015",
+        "title": "Nextbit",
+        "keyArt": "../images/work/nextbit/nextbit_0.jpg",
+        "keyArtVideo": "",
+        "keyArtAspectRatio": "portrait",
+        "description": "Nextbit introduced the world's first cloud-based operating system. Cinco helped introduce Nextbit to the world. We designed and built a digital shopping experience that taught users about the benefits of a cloud-based operating system while providing a seamless shopping flow.",
+        "team": [
+            {
+                "person": "Kirk James",
+                "link": "https://cincodesign.com"
+            },
+            {
+                "person": "Aaron Poe",
+                "link": "https://aaronpoeandco.com/"
+            },
+            {
+                "person": "Shawn Peterson",
+                "link": "http://www.shawn-petersen.com/"
+            },
+            {
+                "person": "Christina Rosalie",
+                "link": "http://christinarosalie.com/"
+            },
+            {
+                "person": "Brendan Miller",
+                "link": "https://brendanmiller.xyz/"
+            },            
+            {
+                "person": "Zach Allott",
+                "link": "https://www.zacharyallott.com/"
+            },
+            {
+                "person": "Pavlina Summers",
+                "link": "http://www.pavlinasummers.com/"
+            },
+            {
+                "person": "The good people at Cinco",
+                "link": "https://cincodesign.com"
+            }
+        ],
+        "assets": [
+            {
+                "asset": "../images/work/nextbit/nextbit_0.jpg",
+                "class": "repeat",
+                "video": ""
+            },
+            {
+                "asset": "",
+                "class": "full",
+                "video": "/nextbit_1.mp4"
+            },
+            {
+                "asset": "../images/work/nextbit/nextbit_2.jpg",
+                "class": "centered",
+                "video": ""
+            },       
+            {
+                "asset": "../images/work/nextbit/nextbit_3.jpg",
+                "class": "centered",
+                "video": ""
+            },                 
+            {
+                "asset": "../images/work/nextbit/nextbit_4.jpg",
+                "class": "centered",
+                "video": ""
+            },
+            {
+                "asset": "../images/work/nextbit/nextbit_5.png",
+                "class": "repeat",
+                "video": ""
+            },
+            {
+                "asset": "../images/work/nextbit/nextbit_6.jpg",
+                "class": "centered",
+                "video": ""
+            },
+            {
+                "asset": "../images/work/nextbit/nextbit_7.jpg",
+                "class": "repeat",
+                "video": ""
+            },
+            {
+                "asset": "../images/work/nextbit/nextbit_8.jpg",
+                "class": "centered",
+                "video": ""
+            },
+            {
+                "asset": "../images/work/nextbit/nextbit_9.jpg",
+                "class": "centered",
+                "video": ""
+            },
+            {
+                "asset": "../images/work/nextbit/nextbit_10.jpg",
+                "class": "centered",
+                "video": ""
+            },
+            {
+                "asset": "../images/work/nextbit/nextbit_11.jpg",
+                "class": "full",
+                "video": ""
+            },
+            {
+                "asset": "../images/work/nextbit/nextbit_12.jpg",
+                "class": "repeat",
+                "video": ""
+            },
+            {
+                "asset": "",
+                "class": "centered",
+                "video": "/nextbit_13.mp4"
+            },
+            {
+                "asset": "../images/work/nextbit/nextbit_14.jpg",
+                "class": "full",
+                "video": ""
+            },
+            {
+                "asset": "../images/work/nextbit/nextbit_15.jpg",
+                "class": "repeat",
+                "video": ""
+            },
+            {
+                "asset": "../images/work/nextbit/nextbit_16.jpg",
+                "class": "centered",
+                "video": ""
+            },
+            {
+                "asset": "../images/work/nextbit/nextbit_17.jpg",
+                "class": "repeat",
+                "video": ""
+            }
+        ]      
+    },
+    
+    {
+        "slug": "dialpad",
+        "date": "2022",
+        "title": "Dialpad",
+        "keyArt": "../images/work/dialpad/dialpad_02.png",
+        "keyArtVideo": "",
+        "keyArtAspectRatio": "landscape",
+        "description": "Dialpad offers one, beautiful workspace for anywhere communication & collaboration - all powered by the most advanced communications Ai in the world. I joined the team to help scale the design practice in preparation for a public offering. With the help of an amazing team, we are creating a design practice at scale while building a brand that resonates. In our short time here, the team has contributed to a dramatic improvement in performance, established a new brand platform, visual identity and digital experience — and we are just starting.",
+        "team": [
+            {
+                "person": "JP Walti",
+                "link": "https://www.linkedin.com/in/johnpaulwalti/"
+            },
+            {
+                "person": "Morgan Norman",
+                "link": "https://twitter.com/meetmorg?lang=en"
+            },
+            {
+                "person": "Kat Chen",
+                "link": "https://www.linkedin.com/in/katherinegracechen/"
+            },                                
+            {
+                "person": "Brendan Miller",
+                "link": "http://brendanmiller.xyz/"
+            },  
+            {
+                "person": "Wyn Merchant",
+                "link": "https://www.linkedin.com/in/wynmerchant/"
+            },                                                
+            {
+                "person": "Maria Janosko",
+                "link": "http://kristinhurley.com/"
+            }
+        ],
+        "assets": [
+            {
+                "asset": "../images/work/dialpad/dialpad_01.png",
+                "class": "full",
+                "video": ""
+            },
+            {
+                "asset": "../images/work/dialpad/dialpad_02.png",
+                "class": "full",
+                "video": ""
+            },
+            {
+                "asset": "../images/work/dialpad/dialpad_04.jpg",
+                "class": "full",
+                "video": ""
+            },
+            {
+                "asset": "../images/work/dialpad/dialpad_03.png",
+                "class": "centered",
+                "video": ""
+            },
+            {
+                "asset": "../images/work/dialpad/dialpad_05.png",
+                "class": "full",
+                "video": ""
+            },
+            {
+                "asset": "../images/work/dialpad/dialpad_06.png",
+                "class": "centered",
+                "video": ""
+            },
+            {
+                "asset": "../images/work/dialpad/dialpad_07.png",
+                "class": "repeat",
+                "video": ""
+            },
+            {
+                "asset": "../images/work/dialpad/dialpad_08.png",
+                "class": "full",
+                "video": ""
+            },
+            {
+                "asset": "../images/work/dialpad/dialpad_09.png",
+                "class": "full",
+                "video": ""
+            },
+            {
+                "asset": "../images/work/dialpad/dialpad_10.jpg",
+                "class": "centered",
+                "video": ""
+            },            
+            {
+                "asset": "../images/work/dialpad/dialpad_12.png",
+                "class": "full",
+                "video": ""
+            },            
+            {
+                "asset": "../images/work/dialpad/dialpad_11.png",
+                "class": "full",
+                "video": ""
+            },
+
+            {
+                "asset": "../images/work/dialpad/dialpad_13.jpg",
+                "class": "centered",
+                "video": ""
+            },
+
+            {
+                "asset": "../images/work/dialpad/dialpad_15.jpg",
+                "class": "full",
+                "video": ""
+            },
+            {
+                "asset": "../images/work/dialpad/dialpad_14.jpg",
+                "class": "centered",
+                "video": ""
+            },            
+            {
+                "asset": "../images/work/dialpad/dialpad_16.png",
+                "class": "full",
+                "video": ""
+            }
+        ]      
+    }
+    
+
+                    
+]

@@ -1,5 +1,4 @@
 import * as React from "react"
-import { Link } from "gatsby"
 import Layout from "../components/layout"
 import Footer from "../components/footer"
 import Header from "../components/header"
@@ -30,12 +29,12 @@ const IndexPage = ({ data }) => {
               <div className="info-dtls">
                 
                 <h3 className="lg-type">Work</h3>
-                <p className="lg-type">I’m primarily focused on creating an environment where design impacts everything I do. At work, this means building brand platforms, identity systems, tools, experiences, and a culture of design.</p>
-                <p className="lg-type">I currently lead global brand design at Dialpad where I work across product and marketing to establish seamless brand experiences over the entire customer journey.</p>
+                <p className="lg-type">I'm primarily focused on creating an environment where design impacts everything I do. At work, this means building brand platforms, identity systems, products, and a culture of design.</p>
+                <p className="lg-type">I'm currently Head of Design at Dialpad where I work across product and marketing to establish seamless brand &amp; product experiences.</p>
                 
               </div>
               <div className="info-dtls">
-                
+
                 <h3 className="lg-type">Personal</h3>
                 <p className="lg-type">Design found me. I set out to become an artist or an athlete and eventually realized that design and the design process was the magic that helped me connect the things I love. I have degrees in Marketing & Art History. I’m a self taught front-end developer and I'm obsessed with the possibilities of design + technology + art. I live with my wife, two boys and Newfoundland in Laguna Beach CA. Hit me up for a coffee if you’re in the neighborhood.</p>
                 

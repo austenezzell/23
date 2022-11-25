@@ -542,7 +542,7 @@
         "slug": "dialpad",
         "date": "2022",
         "title": "Dialpad",
-        "keyArt": "../images/work/dialpad/dialpad_02.png",
+        "keyArt": "../images/work/dialpad/dialpad_00.jpg",
         "keyArtVideo": "",
         "keyArtAspectRatio": "landscape",
         "description": "Dialpad offers one, beautiful workspace for anywhere communication & collaboration - all powered by the most advanced communications Ai in the world. I joined the team to help scale the design practice in preparation for a public offering. With the help of an amazing team, we are creating a design practice at scale while building a brand that resonates. In our short time here, the team has contributed to a dramatic improvement in performance, established a new brand platform, visual identity and digital experience — and we are just starting.",
@@ -574,10 +574,15 @@
         ],
         "assets": [
             {
-                "asset": "../images/work/dialpad/dialpad_01.png",
+                "asset": "../images/work/dialpad/dialpad_00.jpg",
                 "class": "full",
                 "video": ""
             },
+            {
+                "asset": "../images/work/dialpad/dialpad_01.png",
+                "class": "full",
+                "video": ""
+            },            
             {
                 "asset": "../images/work/dialpad/dialpad_02.png",
                 "class": "full",

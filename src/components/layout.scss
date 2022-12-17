@@ -713,8 +713,8 @@ vr {
   width: 300px;
   align-self: center;
   z-index: 2;
-  opacity: 0;
-  animation: fadeinout 5s ease forwards;
+  // opacity: 0;
+  // animation: fadeinout 5s ease forwards;
   @include md-screens() {
     width: 600px;
     height: 600px;

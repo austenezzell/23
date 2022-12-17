@@ -28,15 +28,15 @@ const IndexPage = ({ data }) => {
             <div className="container two-col info-dets mt6 align-end gutters">
               <div className="info-dtls">
                 
-                <h3 className="lg-type">Work</h3>
-                <p className="lg-type">I'm primarily focused on creating an environment where design impacts everything I do. At work, this means building brand platforms, identity systems, products, and a culture of design.</p>
-                <p className="lg-type">I'm currently Head of Design at Dialpad where I work across product and marketing to establish seamless brand &amp; product experiences.</p>
+                {/* <h3 className="lg-type">Work</h3> */}
+                {/* <p className="lg-type">I'm primarily focused on creating an environment where design impacts everything I do. At work, this means building brand platforms, identity systems, products, and a culture of design.</p>
+                <p className="lg-type">I'm currently Head of Design at Dialpad where I work across product and marketing to establish seamless brand &amp; product experiences.</p> */}
                 
               </div>
               <div className="info-dtls">
 
-                <h3 className="lg-type">Personal</h3>
-                <p className="lg-type">Design found me. I set out to become an artist or an athlete and eventually realized that design and the design process was the magic that helped me connect the things I love. I have degrees in Marketing & Art History. I’m a self taught front-end developer and I'm obsessed with the possibilities of design + technology + art. I live with my wife, two boys and Newfoundland in Laguna Beach CA. Hit me up for a coffee if you’re in the neighborhood.</p>
+                {/* <h3 className="lg-type">Personal</h3> */}
+                <p className="lg-type">The Design process is a way of thinking that can be applied to all aspects of life. For much of my life, I practiced design without understanding design. Today, I'm primarily focused on creating an environment where design impacts everything I do. At work, this means bringing cross-functional teams together to establish brand platforms, identity systems, product experiences, and a culture of design. I'm currently Head of Design at Dialpad where I work across product and marketing to establish seamless brand & product experiences.</p>
                 
               </div>
             </div>

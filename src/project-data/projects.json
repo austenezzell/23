@@ -29,17 +29,17 @@
             },
             {
                 "asset": "",
-                "class": "repeat",
+                "class": "full",
                 "video": "/gogoro_3.mp4"
             },             
             {
                 "asset": "../images/work/gogoro/gogoro_1.jpg",
-                "class": "centered",
+                "class": "full",
                 "video": ""
             },    
             {
                 "asset": "../images/work/gogoro/gogoro_2.jpg",
-                "class": "repeat",
+                "class": "full",
                 "video": ""
             },    
             {
@@ -49,12 +49,12 @@
             },    
             {
                 "asset": "../images/work/gogoro/gogoro_5.jpg",
-                "class": "centered",
+                "class": "full",
                 "video": ""
             },  
             {
                 "asset": "../images/work/gogoro/gogoro_6.jpg",
-                "class": "repeat",
+                "class": "full",
                 "video": ""
             },  
             {
@@ -64,7 +64,7 @@
             },  
             {
                 "asset": "../images/work/gogoro/gogoro_8.jpg",
-                "class": "centered",
+                "class": "full",
                 "video": ""
             },  
             {
@@ -84,12 +84,12 @@
             },  
             {
                 "asset": "../images/work/gogoro/gogoro_12.jpg",
-                "class": "centered",
+                "class": "full",
                 "video": ""
             },  
             {
                 "asset": "../images/work/gogoro/gogoro_13.jpg",
-                "class": "repeat",
+                "class": "full",
                 "video": ""
             }                                                              
         ]  
@@ -159,22 +159,22 @@
         "assets": [
             {
                 "asset": "",
-                "class": "repeat",
+                "class": "full",
                 "video": "/rc_0.mp4"
             },
             {
                 "asset": "",
-                "class": "centered",
+                "class": "full",
                 "video": "/rc_1.mp4"
             },    
             {
                 "asset": "",
-                "class": "repeat",
+                "class": "full",
                 "video": "/rc_2.mp4"
             },
             {
                 "asset": "",
-                "class": "centered",
+                "class": "full",
                 "video": "/rc_3.mp4"
             },
             {
@@ -184,7 +184,7 @@
             },
             {
                 "asset": "../images/work/ringcentral/rc_5.jpg",
-                "class": "centered",
+                "class": "full",
                 "video": ""
             },
             {
@@ -194,12 +194,12 @@
             },
             {
                 "asset": "../images/work/ringcentral/rc_7.jpg",
-                "class": "repeat",
+                "class": "full",
                 "video": ""
             },
             {
                 "asset": "../images/work/ringcentral/rc_8.jpg",
-                "class": "centered",
+                "class": "full",
                 "video": ""
             },
             {
@@ -209,12 +209,12 @@
             },
             {
                 "asset": "../images/work/ringcentral/rc_10.jpg",
-                "class": "centered",
+                "class": "full",
                 "video": ""
             },
             {
                 "asset": "../images/work/ringcentral/rc_11.jpg",
-                "class": "repeat",
+                "class": "full",
                 "video": ""
             }                                                                                
         ]      
@@ -240,7 +240,7 @@
         "assets": [
             {
                 "asset": "../images/work/fig/fig_0.jpg",
-                "class": "repeat",
+                "class": "full",
                 "video": ""
             },   
             {
@@ -250,17 +250,17 @@
             },   
             {
                 "asset": "../images/work/fig/fig_2.jpg",
-                "class": "repeat",
+                "class": "full",
                 "video": ""
             },   
             {
                 "asset": "../images/work/fig/fig_3.jpg",
-                "class": "centered",
+                "class": "full",
                 "video": ""
             },   
             {
                 "asset": "../images/work/fig/fig_4.jpg",
-                "class": "repeat",
+                "class": "full",
                 "video": ""
             },   
             {
@@ -270,12 +270,12 @@
             },   
             {
                 "asset": "../images/work/fig/fig_6.jpg",
-                "class": "centered",
+                "class": "full",
                 "video": ""
             }, 
             {
                 "asset": "../images/work/fig/fig_7.jpg",
-                "class": "repeat",
+                "class": "full",
                 "video": ""
             }                                                                                                                                 
         ]      
@@ -317,12 +317,12 @@
         "assets": [
             {
                 "asset": "",
-                "class": "centered",
+                "class": "full",
                 "video": "/hank_0.mp4"
             },  
             {
                 "asset": "../images/work/hank/hank_1.jpg",
-                "class": "repeat",
+                "class": "full",
                 "video": ""
             },
             {
@@ -332,12 +332,12 @@
             },
             {
                 "asset": "",
-                "class": "centered",
+                "class": "full",
                 "video": "https://player.vimeo.com/external/365111331.hd.mp4?s=8824d0e9b078367a7c4d30ca9ebc594585b2f6cc&profile_id=174"
             },
             {
                 "asset": "../images/work/hank/hank_2.jpg",
-                "class": "repeat",
+                "class": "full",
                 "video": ""
             }                                                                                                                                    
         ]      
@@ -376,7 +376,7 @@
         "assets": [
             {
                 "asset": "../images/work/tjb/tjb_0.jpg",
-                "class": "repeat",
+                "class": "full",
                 "video": ""
             },
             {
@@ -386,17 +386,17 @@
             },
             {
                 "asset": "../images/work/tjb/tjb_2.jpg",
-                "class": "centered",
+                "class": "full",
                 "video": ""
             },
             {
                 "asset": "../images/work/tjb/tjb_3.jpg",
-                "class": "repeat",
+                "class": "full",
                 "video": ""
             },
             {
                 "asset": "../images/work/tjb/tjb_4.jpg",
-                "class": "repeat",
+                "class": "full",
                 "video": ""
             }
         ]      
@@ -447,7 +447,7 @@
         "assets": [
             {
                 "asset": "../images/work/nextbit/nextbit_0.jpg",
-                "class": "repeat",
+                "class": "full",
                 "video": ""
             },
             {
@@ -457,47 +457,47 @@
             },
             {
                 "asset": "../images/work/nextbit/nextbit_2.jpg",
-                "class": "centered",
+                "class": "full",
                 "video": ""
             },       
             {
                 "asset": "../images/work/nextbit/nextbit_3.jpg",
-                "class": "centered",
+                "class": "full",
                 "video": ""
             },                 
             {
                 "asset": "../images/work/nextbit/nextbit_4.jpg",
-                "class": "centered",
+                "class": "full",
                 "video": ""
             },
             {
                 "asset": "../images/work/nextbit/nextbit_5.png",
-                "class": "repeat",
+                "class": "full",
                 "video": ""
             },
             {
                 "asset": "../images/work/nextbit/nextbit_6.jpg",
-                "class": "centered",
+                "class": "full",
                 "video": ""
             },
             {
                 "asset": "../images/work/nextbit/nextbit_7.jpg",
-                "class": "repeat",
+                "class": "full",
                 "video": ""
             },
             {
                 "asset": "../images/work/nextbit/nextbit_8.jpg",
-                "class": "centered",
+                "class": "full",
                 "video": ""
             },
             {
                 "asset": "../images/work/nextbit/nextbit_9.jpg",
-                "class": "centered",
+                "class": "full",
                 "video": ""
             },
             {
                 "asset": "../images/work/nextbit/nextbit_10.jpg",
-                "class": "centered",
+                "class": "full",
                 "video": ""
             },
             {
@@ -507,12 +507,12 @@
             },
             {
                 "asset": "../images/work/nextbit/nextbit_12.jpg",
-                "class": "repeat",
+                "class": "full",
                 "video": ""
             },
             {
                 "asset": "",
-                "class": "centered",
+                "class": "full",
                 "video": "/nextbit_13.mp4"
             },
             {
@@ -522,17 +522,17 @@
             },
             {
                 "asset": "../images/work/nextbit/nextbit_15.jpg",
-                "class": "repeat",
+                "class": "full",
                 "video": ""
             },
             {
                 "asset": "../images/work/nextbit/nextbit_16.jpg",
-                "class": "centered",
+                "class": "full",
                 "video": ""
             },
             {
                 "asset": "../images/work/nextbit/nextbit_17.jpg",
-                "class": "repeat",
+                "class": "full",
                 "video": ""
             }
         ]      
@@ -545,7 +545,7 @@
         "keyArt": "../images/work/dialpad/dialpad_00.jpg",
         "keyArtVideo": "",
         "keyArtAspectRatio": "landscape",
-        "description": "Dialpad offers one, beautiful workspace for anywhere communication & collaboration - all powered by the most advanced communications Ai in the world. I joined the team to help scale the design practice in preparation for a public offering. With the help of an amazing team, we are creating a design practice at scale while building a brand that resonates. In our short time here, the team has contributed to a dramatic improvement in performance, established a new brand platform, visual identity and digital experience — and we are just starting.",
+        "description": "Dialpad offers one, beautiful workspace for anywhere communication & collaboration - all powered by the most advanced communications Ai in the world. I joined the team to help scale the design practice in preparation for a public offering. With the help of an amazing team, we are creating a design practice at scale while building a seamless product and brand experience. In our short time here, the team has contributed to a dramatic improvement in performance, established a new brand platform, visual identity, website and product experience — and we are just starting.",
         "team": [
             {
                 "person": "JP Walti",
@@ -568,18 +568,13 @@
                 "link": "https://www.linkedin.com/in/wynmerchant/"
             },                                                
             {
-                "person": "Maria Janosko",
-                "link": "http://kristinhurley.com/"
+                "person": "Josh Hynes",
+                "link": "https://www.joshuahynes.com"
             }
         ],
         "assets": [
             {
                 "asset": "../images/work/dialpad/dialpad_00.jpg",
-                "class": "full",
-                "video": ""
-            },
-            {
-                "asset": "../images/work/dialpad/dialpad_01.png",
                 "class": "full",
                 "video": ""
             },            
@@ -594,23 +589,18 @@
                 "video": ""
             },
             {
-                "asset": "../images/work/dialpad/dialpad_03.png",
-                "class": "centered",
-                "video": ""
-            },
-            {
                 "asset": "../images/work/dialpad/dialpad_05.png",
                 "class": "full",
                 "video": ""
             },
             {
                 "asset": "../images/work/dialpad/dialpad_06.png",
-                "class": "centered",
+                "class": "full",
                 "video": ""
             },
             {
                 "asset": "../images/work/dialpad/dialpad_07.png",
-                "class": "repeat",
+                "class": "full",
                 "video": ""
             },
             {
@@ -625,7 +615,7 @@
             },
             {
                 "asset": "../images/work/dialpad/dialpad_10.jpg",
-                "class": "centered",
+                "class": "full",
                 "video": ""
             },            
             {
@@ -641,7 +631,7 @@
 
             {
                 "asset": "../images/work/dialpad/dialpad_13.jpg",
-                "class": "centered",
+                "class": "full",
                 "video": ""
             },
 
@@ -652,7 +642,7 @@
             },
             {
                 "asset": "../images/work/dialpad/dialpad_14.jpg",
-                "class": "centered",
+                "class": "full",
                 "video": ""
             },            
             {

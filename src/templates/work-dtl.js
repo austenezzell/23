@@ -2,9 +2,8 @@ import { graphql, Link } from 'gatsby'
 import React from 'react'
 import Layout from '../components/layout'
 import Img from "gatsby-image"
-import Footer from "../components/footer"
-import Nav from "../components/nav"
 import Seo from "../components/seo"
+import Footer from "../components/footer"
 
 export default function workDtls({ data }) {
     const { description, title, assets, slug, team } = data.projectsJson
@@ -28,49 +27,55 @@ export default function workDtls({ data }) {
     return (
         <Layout page={ page }>
             <Seo title={ title } />
-            < Nav />
-            <section>
-                <div className="work-content">
-                    {assets.map((value, index) => {
-                        return <div key={ index } className={ value.class + " asset"}>
-                            { value.class === "repeat" ? <div className='container'><div className='repeat-1'>{ assetType(value) }</div><div className='repeat-2'>{ assetType(value) }</div><div className='repeat-3'>{ assetType(value) }</div></div>
-                            : value.class === "centered" ? <div className='container twelve-col'><div className='centered-asset'>{ assetType(value) }</div></div>
-                            : assetType(value) }
-                            </div>
-                    })}
-                    <div className="info-bar">
-                        <div className="container mobile-two-col">
-                            <div className="box-1">
-                                <h1><Link to='/'>Austen Ezzell</Link> / <Link to='/work'>Archive</Link> / { title }</h1>
-                            </div>
-                            <div className="box-2">
-                            { nextPage === "end" ? <Link to={ '/work/' + allProjects[0] }>Next Project &rarr;</Link> : <Link to={ '/work/' + nextPage }>Next Project &rarr;</Link> }
-                            </div>
-                        </div>                              
-                    </div>
-                </div>
-            </section>
-            <div className="grid-margins container four-col info-dets">
+            
+            
+            
+
+            <section className="main-content ">
                 
-                <div className='three-fourth-col'>
-                    <div className="description mb-4">
-                        <p className="sm-type">{ description }</p>
-                    </div>
-                    <div className='team'>
-                        <h3>Team</h3>
-                        <ul>
-                            { team.map((ic, index) => {
-                                return <li key={ index }>{ ic.link ? <a href={ ic.link }>{ ic.person }</a> : ic.person }</li>
-                            })}                        
-                        </ul>
-                    </div>
-                    <div className="block double-m">
-                        <p className="sm-type">Feel free to reach out about collaborations</p>
+                    <div className=" grid-margins grid-container">
+                        <div className='wrapper'>
+                            <h1 className="mb-4">The <Link to='/'>design practice</Link> of Austen Ezzell.</h1>
+                            <div className='mb-4'>
+                                <h2> { title }</h2>
+                                <p className="sm-type">{ description }</p>
+                            </div>
+                            
+
+                            <section>
+                                <div className="work-content mb-6">
+                                    {assets.map((value, index) => {
+                                        return <div key={ index } className={ value.class + " asset"}>
+                                            { value.class === "repeat" ? <div className='container'><div className='repeat-1'>{ assetType(value) }</div><div className='repeat-2'>{ assetType(value) }</div><div className='repeat-3'>{ assetType(value) }</div></div>
+                                            : value.class === "centered" ? <div className='container twelve-col'><div className='centered-asset'>{ assetType(value) }</div></div>
+                                            : assetType(value) }
+                                            </div>
+                                    })}
+                    
+                                </div>
+                            </section>
+                            <section>
+                                <div className='mb-6'>
+                                    <h3>Team</h3>
+                                    <ul>
+                                        { team.map((ic, index) => {
+                                            return <li key={ index }>{ ic.link ? <a href={ ic.link }>{ ic.person }</a> : ic.person }</li>
+                                        })}                        
+                                    </ul>
+                                </div>
+                                <p>{ nextPage === "end" ? <Link to={ '/work/' + allProjects[0] }>Next Project &rarr;</Link> : <Link to={ '/work/' + nextPage }>Next Project &rarr;</Link> }</p>
+                            </section>
+                            
+                        </div>
                     </div>
                     <Footer />
-                </div>
+
                 
-            </div>
+            </section>
+
+
+            
+
         </Layout>
     )
 }
